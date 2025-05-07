@@ -1,5 +1,5 @@
 # Ausreisser_in_Zeitreihen_verlaesslich_erkennen
-Jupyter-Notebook zum [Praxis-Artikel](https://www.heise.de/select/ix/2025/6/2504413533007263934) von Dr. Roland Pleger, erschienen in [iX 06/2025](https://www.heise.de/select/ix/2025/6) und auf [heise online](https://www.heise.de/plus).
+Jupyter-Notebook zum [Praxis-Artikel](https://www.heise.de/select/ix/2025/6/2504413533007263934) von Dr. Roland Pleger, erschienen in [iX 06/2025](https://www.heise.de/select/ix/2025/6) und auf [heise online](https://heise.de/-10373388).
 
 # iX-tract
 - Ausreißer in Zeitreihen sind besonders gemein, wenn die fehlerhaften Werte im erwartbaren Bereich liegen, aber eben zur falschen Zeit auftauchen.
